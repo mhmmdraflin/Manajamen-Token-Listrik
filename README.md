@@ -5,6 +5,8 @@
 
 Program ini adalah **aplikasi konsol sederhana** yang digunakan untuk mengelola data token listrik pelanggan, termasuk menambah, melihat, mengubah, dan menghapus data token. Program ditulis dalam bahasa **Java** menggunakan paradigma **Object-Oriented Programming (OOP)**.
 
+> 📘 **Catatan:** Proyek ini merupakan *proyek Ujian Akhir Semester (UAS)* dari mata kuliah **Algoritma Pemrograman 1**, dengan tujuan untuk menerapkan konsep dasar algoritma, struktur data dinamis, serta logika pemrograman berbasis objek dalam Java.
+
 ---
 
 ## 📜 Deskripsi Program
